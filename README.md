@@ -1,1 +1,1 @@
-# Admiral.IdentityServer
+# Luck.Admiral.IdentityServer
